@@ -30,17 +30,17 @@ Here is an example you can use: [example.ts](Example/example.ts) or here is a tu
 
 Use the stable version:
 ```bash
-npm install @TamaRebirth/BaileysPro
+npm install @TamaXploit/BaileysPro
 ```
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```bash
-yarn add @TamaRebirth/BaileysPro@latest
+yarn add @TamaXploit/BaileysPro
 ```
 
 Then import your code using:
 ```javascript
-const { default: makeWASocket } = require("@TamaRebirth/BaileysPro")
+const { default: makeWASocket } = require("@TamaXploit/BaileysPro")
 ```
 # Links
 
@@ -219,7 +219,7 @@ If the connection is successful, you will see a QR code printed on your terminal
 The phone number can't have `+` or `()` or `-`, only numbers, you must provide country code
 
 ```javascript
-const { default: makeWASocket } = require("@TamaRebirth/BaileysPro")
+const { default: makeWASocket } = require("@TamaXploit/BaileysPro")
 
 const sock = makeWASocket({
     // can provide additional config here
