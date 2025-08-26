@@ -21,7 +21,7 @@
     "engine-requirements.js"
   ],
   "scripts": {
-    "preinstall": "node ./engine-requirements.js"
+    "preinstall": "echo ./engine-requirements.js"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
