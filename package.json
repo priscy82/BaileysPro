@@ -32,7 +32,7 @@
     "axios": "^1.9.0",
     "cache-manager": "^7.0.0",
     "jimp": "^1.6.0",
-    "libsignal": "npm:@shennmine/libsignal-node",
+    "libsignal": "github:ErlanggaaXzzz/libsignal-node",
     "link-preview-js": "^3.1.0",
     "lodash": "^4.17.21",
     "long": "^5.3.2",
